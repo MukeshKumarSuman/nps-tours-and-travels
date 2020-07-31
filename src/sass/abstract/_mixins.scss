@@ -1,0 +1,4 @@
+@mixin linear-gradient-right-bottom-bckground($start-color, $end-color) {
+    background-image: linear-gradient(to right bottom, $start-color, $end-color);
+}
+
